@@ -1,0 +1,11 @@
+https://docs.microsoft.com/en-us/dotnet/api/system.threading.synchronizationcontext.post?view=netcore-3.1#System_Threading_SynchronizationContext_Post_System_Threading_SendOrPostCallback_System_Object_
+
+https://medium.com/bynder-tech/c-why-you-should-use-configureawait-false-in-your-library-code-d7837dce3d7f
+
+https://docs.microsoft.com/en-us/archive/msdn-magazine/2011/february/msdn-magazine-parallel-computing-it-s-all-about-the-synchronizationcontext
+
+https://devblogs.microsoft.com/dotnet/configureawait-faq/
+
+https://github.com/dotnet/runtime/blob/60d1224ddd68d8ac0320f439bb60ac1f0e9cdb27/src/libraries/System.Runtime.WindowsRuntime/src/System/Threading/WindowsRuntimeSynchronizationContext.cs
+
+https://github.com/dotnet/source-build
